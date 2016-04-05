@@ -9,7 +9,7 @@ import java.io.*;
 
 
 public class TestGS {
-	private final static String TESTDATA_DIR = "C:/Users/Maggan/Downloads/algdes-lab1/data";
+	private final static String TESTDATA_DIR = "C:/Users/Maggan/Downloads/algdes-labFiles/data";
 	private final static char SC = File.separatorChar;
 	
 	/**
